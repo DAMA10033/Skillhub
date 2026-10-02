@@ -1,0 +1,10 @@
+{
+  "description": "This web application streamlines task management for users by providing a user-friendly interface to organize, prioritize, and track their daily activities efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
